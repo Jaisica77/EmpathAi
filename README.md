@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 - [Prisma](https://www.prisma.io/) CLI
 - [Gemini API](https://ai.google.dev/) access
 
-## Installation
+## Installation required
 
 ### 1. Install Dependencies
 ```sh
